@@ -315,7 +315,6 @@ function encodeToRot13(str) {
       )
     : '';
 }
-
 /**
  * Returns playid card id.
  *
